@@ -517,3 +517,4 @@ Signed,
 - Abhishek Sajwan ([@abhishek1997](https://github.com/abhishek1997)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Pranjal Tale ([@pranjaltale16](https://github.com/pranjaltale16)), Developer,Applied Mathematics Undergraduate at IIT Roorkee, India. 
 - Gouranshi Choudhary ([@gouranshi](https://github.com/gouranshi)), Designer, Geological Technology Undergraduate at IIT Roorkee, India. 
+- Vipul Gutpta([@vipul26](https://github.com/vipul26)), Developer, Undergrad at IIT Roorkee, India.
